@@ -1,0 +1,19 @@
+{
+  "name": "yishailandau_co_il",
+  "version": "1.0.0",
+  "description": "Yishai Landau website",
+  "main": "script.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.5.3",
+    "express": "^4.12.4",
+    "tiny-lr": "^0.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,86 @@
+{
+	"skills": {
+		"Operating Systems": {
+			"Instances": {
+				"Windows" : {
+					"Logo": "http://www.datalogics.com/images/windows-store.png",
+					"Background": "",
+					"Color": "",
+					"Description: "My main working station. Windows 7 is Microsoft's best operatin system. There are many tweaks and adjustments needed to be made in order to develop code that will run on Linux, but well worth the effort"
+				},
+				"Linux": {
+					"Logo": "http://en.wikipedia.org/wiki/Tux#/media/File:Tux.png",
+					"Background": "",
+					"Color": "",
+					"Description: "For any application which is not written in a Microsoft-based language, Linux is the natural home for running it. Everything is easily configurable, doesn't require much CPU or graphics to run, and above all - puts security at the highest priority"
+				},
+			},
+			"Description" :  "Most of my development was done from Windows-based workstations. I've set up servers, databases, VM, and more. Testing and production servers are usually Linux based, Ubunutu and CentOS being the main flavours."
+		},
+		"Web servers": {
+			"Instances": {
+				"Apache": {
+					"Logo": "",
+					"Background": "",
+					"Color": "",
+					"Description: ""
+				},
+				"Tomcat": {
+					"Logo": "",
+					"Background": "",
+					"Color": "",
+					"Description: ""
+				},
+				"Weblogic" {
+					"Logo": "",
+					"Background": "",
+					"Color": "",
+					"Description: ""
+				}
+			},
+			"Description": ""
+		},
+		"Back-end languages": {
+			"Instances": {
+				"Java": {
+					"Logo": "",
+					"Background": "",
+					"Color": "",
+					"Description: ""
+				},
+				"PHP": {
+					"Logo": "",
+					"Background": "",
+					"Color": "",
+					"Description: ""
+				},
+				"Python": {
+					"Logo": "",
+					"Background": "",
+					"Color": "",
+					"Description: ""
+				}
+			},
+			"Description": ""
+		},
+		"Front-end languages": {
+			"Logo": "",
+			"Background": "",
+			"Color": "",
+			"Description: ""			
+		},
+		"Platform-as-a-service": {
+			"Logo": "",
+			"Background": "",
+			"Color": "",
+			"Description: ""
+		},
+		"Databases": {
+			"Logo": "",
+			"Background": "",
+			"Color": "",
+			"Description: ""
+		}
+	}
+	"Description" : "I have been developing websites, web-applications, and mobile solutions for the past 15 years. Understanding the big picture as well as every technical detail to make ideas happen is my speciallity."
+}
